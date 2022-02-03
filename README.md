@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# This is a social networking site for sharing site pins using React and Sanity
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Site is hosted [Here](https://shareme-jimmy.netlify.app)
+
+
 
 Backend available [here](https://github.com/ledzep443/sharebook_backend)
 
